@@ -7,6 +7,24 @@
 
 <br>
 
+<h2 id='dor'> DoR (Definition of Ready) </h2>
+
+- User Stories detalhadas com critérios de aceitação  
+- Protótipos de interface aprovados  
+- Guia de instalação documentado  
+- Ambiente de desenvolvimento configurado (VSCode)  
+
+<br>
+
+<h2 id='dod'> DoD (Definition of Done) </h2>
+
+- Código implementado em Java com Maven  
+- Testes de validação de Login/Cadastro realizados  
+- Documentação de uso atualizada  
+- Funcionalidade Enviar/Aceitar solicitação integrada 
+
+<br>
+
 
 <h2 id='membros'> 👥 Membros </h2>
 
