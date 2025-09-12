@@ -12,7 +12,9 @@
 - User Stories detalhadas com critérios de aceitação  
 - Protótipos de interface aprovados  
 - Guia de instalação documentado  
-- Ambiente de desenvolvimento configurado (VSCode)  
+- Ambiente de desenvolvimento configurado (VSCode)
+- Backlog do produto listando todas as funcionalidades de acordo com importãncia
+
 
 <br>
 
