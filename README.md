@@ -101,7 +101,7 @@ A Sambold permitirá que os usuários se cadastrem e realizem login no sistema, 
 
 | Sprint | Período | Entregas | Status |
 |--------|---------|----------|--------|
-| 1 | 08/09 - 38/09 | Planejamento inicial, Protótipos do Visual | ✅ |
+| 1 | 08/09 - 28/09 | Planejamento inicial, Protótipos do Visual | ✅ |
 | 2 | 06/10 - 26/10 | Cadastro/Login, Enviar/Receber Pedido de Orientação, Chat entre Orientador e Orientando, Histórico de Mensagens  | 🟡 |
 | 3 | 03/11 - 23/11 | Armazenamento de Documentos, Ferramentas para Gerenciamento de Orientandos, Alteração Dados de Cadastro, Notificação Resposta Pedido de Orientação | 🟠 |
 
