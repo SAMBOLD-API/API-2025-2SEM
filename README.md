@@ -82,6 +82,8 @@ A Sambold permitirá que os usuários se cadastrem e realizem login no sistema, 
 | 9 | MÉDIA | Como orientado, quero poder alterar meus dados de cadastro | 3 | 3 | 
 | 10 | BAIXA | Como orientado, quero ser notificado se meu pedido de orientação foi aceito ou rejeitado. | 3 | 3 | 
 
+<br>
+
 <h2 id='dor'> DoR (Definition of Ready) </h2>
 
 - User Stories detalhadas com critérios de aceitação  
