@@ -26,7 +26,7 @@ Desenvolver uma aplicação Java para correção de TGs. A aplicação deve perm
 
 <br>
 
-<h2 id='proposta'> ✅ Proposta de Solução </h2>
+<h1 id='proposta'> ✅ Proposta de Solução </h1>
 A Sambold permitirá que os usuários se cadastrem e realizem login no sistema, onde terão a opção de escolher o professor pelo qual desejam ser orientados e iniciar um chat com ele para receber a ajuda necessária na realização do TG. O chat estará disponível para acesso de ambas as partes, servindo como histórico. Também haverá, dentro do software, o manual de TG e o modelo de TG disponíveis para fácil acesso como material de apoio ao aluno.
 
 <br>
