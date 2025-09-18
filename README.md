@@ -66,6 +66,7 @@ A Sambold permitirá que os usuários se cadastrem e realizem login no sistema, 
 <br>
 
 <h3> Sprint 3 </h3>
+
 | Capacidade estimada da Equipe por Sprint | 22 Story Points |
 |------------------------------------------|-----------------|
 | *Meta da Sprint*                       | User Stories de rank 5 e rank 8  (total de 13 Story Points) |
