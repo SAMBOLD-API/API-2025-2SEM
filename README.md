@@ -108,6 +108,8 @@ A Sambold permitirá que os usuários se cadastrem e realizem login no sistema, 
 | 2 | 06/10 - 26/10 | Cadastro/Login, Enviar/Receber Pedido de Orientação, Chat entre Orientador e Orientando, Histórico de Mensagens  | 🟡 |
 | 3 | 03/11 - 23/11 | Armazenamento de Documentos, Ferramentas para Gerenciamento de Orientandos, Alteração Dados de Cadastro, Notificação Resposta Pedido de Orientação | 🟠 |
 
+<br>
+
 <h2 id='tecnologias'> 💻 Tecnologias </h2>
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
