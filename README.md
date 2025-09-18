@@ -19,7 +19,7 @@
 
 <br>
 
-<h3 id='desafio'> 🎯 Desafio </h3>
+<h1 id='desafio'> 🎯 Desafio </h1>
 Desenvolver uma aplicação Java para correção de TGs. A aplicação deve permitir um meio de comunicação entre orientador e orientando, otimizando o envio de perguntas por parte do orientando e os feedbacks por parte do orientador, sendo também acessível o histórico das mensagens entre as duas partes. Além disso, haverá materiais auxiliares (modelo de TG e manual do TG) disponíveis para o aluno.
 
 <br>
