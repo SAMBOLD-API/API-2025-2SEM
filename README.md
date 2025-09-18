@@ -1,5 +1,6 @@
 # API-2025-1SEM
-![Logotipo Monograma Elegante Preto.png](https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/Logotipo%20Monograma%20Elegante%20Preto.png)
+<img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/Logotipo%20Monograma%20Elegante%20Preto.png" alt="Logotipo Monograma Elegante Preto" width="200" height = "100"/>
+
 
 
 
