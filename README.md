@@ -107,12 +107,13 @@ A Sambold permitirá que os usuários se cadastrem e realizem login no sistema, 
 
 <h2 id='tecnologias'> 💻 Tecnologias </h2>
 
-| Tecnologia | Badge |
-| :--------: | :---: |
+| Tecnologias | 
+| :--------: | 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
 <br>
 
 <h2 id='membros'> 👥 Membros </h2>
