@@ -1,5 +1,5 @@
 # API-2025-1SEM
-<img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/imgLogo.jpeg" alt="imgLogo" aspect-ratio: "1223 / 309" />
+<img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/imgLogo.jpeg" alt="imgLogo" aspect-ratio: 1223 / 309 />
 
 
 
