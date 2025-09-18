@@ -1,5 +1,5 @@
 # API-2025-1SEM
-<img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/Logotipo%20Monograma%20Elegante%20Preto.png" alt="Logotipo Monograma Elegante Preto" width="200" height = "100"/>
+<img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/ImgLogo.jpeg" alt="ImgLogo" width="200" height = "100"/>
 
 
 
