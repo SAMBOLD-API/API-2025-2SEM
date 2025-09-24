@@ -51,9 +51,7 @@ A Sambold permitirá que os usuários se cadastrem e realizem login no sistema, 
 
 <br>
 
-<h2 id='sprint-backlog2'> 📖 Sprint Backlog </h2>
-
-<h3> Sprint 2 </h3>
+<h2 id='sprint-backlog2'> 📖 Sprint 2 Backlog </h2>
 
 | Capacidade estimada da Equipe por Sprint | 22 Story Points |
 |------------------------------------------|-----------------|
@@ -94,8 +92,6 @@ A Sambold permitirá que os usuários se cadastrem e realizem login no sistema, 
 <br>
 
 <h2 id='sprint-backlog3'> 📖 Sprint 3 Backlog </h2>
-
-<h3> Sprint 3 </h3>
 
 | Capacidade estimada da Equipe por Sprint | 22 Story Points |
 |------------------------------------------|-----------------|
