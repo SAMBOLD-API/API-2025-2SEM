@@ -35,16 +35,16 @@ A Sambold permitirá que os usuários se cadastrem e realizem login no sistema, 
 
 | Rank | Prioridade | User Story | Estimativa | Sprint | 
 |-------|------------|------------|----------------|---------|
-| 1 | ALTA | Como orientador ou orientado, quero poder entrar no sistema. | 3 | 2 | 
+| 1 | ALTA | Como orientador ou orientando, quero poder entrar no sistema. | 3 | 2 | 
 | 2 | ALTA | Como professor de TG quero poder gerenciar os orientadores | 5 | 2 | 
-| 3 | ALTA | Como orientado, quero poder enviar um pedido de orientação escolhendo o orientador que desejo para começar o acompanhamento. | 3 | 2 | 
+| 3 | ALTA | Como orientando, quero poder enviar um pedido de orientação escolhendo o orientador que desejo para começar o acompanhamento. | 3 | 2 | 
 | 4 | ALTA | Quero como orientador poder aprovar ou recusar pedidos de orientação. | 3 | 2 |
 | 5 | ALTA | Quero como orientador ou orientado poder enviar, guardar documentos e ter acesso a eles. | 5 | 3 | 
-| 6| ALTA | Como orientado, quero ter um espaço no sistema para conversar, tirar dúvidas e receber feedback do orientador. | 8 | 2 |
+| 6 | ALTA | Como orientando, quero ter um espaço no sistema para conversar, tirar dúvidas e receber feedback do orientador. | 8 | 2 |
 | 7 | MÉDIA | Como orientador e orientado, quero que o sistema guarde o histórico de pedidos e alterações para poder consultar depois. | 8 | 2 | 
 | 8 | MÉDIA | Como orientador, quero ter ferramentas fáceis para organizar e gerenciar meus orientandos num só lugar. | 3 | 3 | 
-| 9 | MÉDIA | Como orientado, quero poder alterar meus dados de cadastro | 3 | 3 | 
-| 10 | BAIXA | Como orientado, quero ser notificado se meu pedido de orientação foi aceito ou rejeitado. | 3 | 3 | 
+| 9 | MÉDIA | Como orientando, quero poder alterar meus dados de cadastro | 3 | 3 | 
+| 10 | BAIXA | Como orientando, quero ser notificado se meu pedido de orientação foi aceito ou rejeitado. | 3 | 3 | 
 
 <br>
 
@@ -59,12 +59,34 @@ A Sambold permitirá que os usuários se cadastrem e realizem login no sistema, 
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|------------|------------|--------|
-| 1 | ALTA | Como orientador ou orientado, quero poder entrar no sistema. | 3 | 2 |
+| 1 | ALTA | Como orientador ou orientando, quero poder entrar no sistema. | 3 | 2 |
 | 2 | ALTA | Como professor de TG quero poder gerenciar os orientadores | 3 | 2 | 
-| 3 | ALTA | Como orientado, quero poder enviar um pedido de orientação escolhendo o orientador que desejo para começar o acompanhamento. | 5 | 2 | 
+| 3 | ALTA | Como orientando, quero poder enviar um pedido de orientação escolhendo o orientador que desejo para começar o acompanhamento. | 5 | 2 | 
 | 4 | ALTA | Quero como orientador poder aprovar ou recusar pedidos de orientação. | 5 | 2 |
-| 6| ALTA | Como orientado, quero ter um espaço no sistema para conversar, tirar dúvidas e receber feedback do orientador. | 13 | 2 | 
-| 7 | MÉDIA | Como orientador e orientado, quero que o sistema guarde o histórico de pedidos e alterações para poder consultar depois. | 8 | 2 | 
+| 6 | ALTA | Como orientando, quero ter um espaço no sistema para conversar, tirar dúvidas e receber feedback do orientador. | 13 | 2 | 
+| 7 | MÉDIA | Como orientador e orientando, quero que o sistema guarde o histórico de pedidos e alterações para poder consultar depois. | 8 | 2 | 
+
+<br>
+
+<h2 id='dor'> DoR (Definition of Ready) </h2>
+
+- User Stories detalhadas com critérios de aceitação  
+- Protótipos de interface aprovados  
+- Sistema de Login e Cadastro do Orientador e Orientando  
+- Ambiente de desenvolvimento configurado (Visual Studio Code)
+- Sistema de envio da solicitação de orientação
+- Sistema de gerenciamento do Orientador de pedidos de orientação
+- Sistema de conversa entre Orientador e Orientando
+- Sistema de acesso a conversas anteriores 
+
+<br>
+
+<h2 id='dod'> DoD (Definition of Done) </h2>
+
+- Código implementado em Java  
+- Testes de envio de dados no banco realizados
+- Documentação de uso atualizada  
+- Funcionalidades propostas integradas em diferentes telas
 
 <br>
 
@@ -77,28 +99,28 @@ A Sambold permitirá que os usuários se cadastrem e realizem login no sistema, 
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|------------|------------|--------|
-| 5 | ALTA | Quero como orientador ou orientado poder enviar, guardar documentos e ter acesso a eles. | 8 | 3 | 
+| 5 | ALTA | Quero como orientador ou orientando poder enviar, guardar documentos e ter acesso a eles. | 8 | 3 | 
 | 8 | MÉDIA | Como orientador, quero ter ferramentas fáceis para organizar e gerenciar meus orientandos num só lugar. | 5 | 3 | 
-| 9 | MÉDIA | Como orientado, quero poder alterar meus dados de cadastro | 3 | 3 | 
-| 10 | BAIXA | Como orientado, quero ser notificado se meu pedido de orientação foi aceito ou rejeitado. | 3 | 3 | 
+| 9 | MÉDIA | Como orientando, quero poder alterar meus dados de cadastro | 3 | 3 | 
+| 10 | BAIXA | Como orientando, quero ser notificado se meu pedido de orientação foi aceito ou rejeitado. | 3 | 3 | 
 
 <br>
 
 <h2 id='dor'> DoR (Definition of Ready) </h2>
-
-- User Stories detalhadas com critérios de aceitação  
-- Protótipos de interface aprovados  
-- Requisitos matemáticos documentados  
-- Ambiente de desenvolvimento configurado (Visual G)  
+ 
+- Sistema de envio de documentos
+- Sistema de gerenciamento do Orientador de pedidos de orientação
+- Sistema de alteração dos dados de cadastro
+- Sistema de notificação de estado do pedido de orientação   
 
 <br>
 
 <h2 id='dod'> DoD (Definition of Done) </h2>
 
-- Código implementado em Portugol  
-- Testes de validação matemática realizados  
+- Código implementado em Java  
+- Testes de envio de dados no banco realizados
 - Documentação de uso atualizada  
-- Funcionalidade integrada ao menu principal  
+- Funcionalidades propostas integradas em diferentes telas
 
 <br>
 
