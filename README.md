@@ -12,8 +12,10 @@
 <a href="#proposta"> ✅ Proposta de Solução </a> |
 <a href="#product-backlog"> 📖 Backlog do Produto </a> |  
 <a href="#sprint-backlog"> 📖 Sprint Backlog </a> |
-<a href="#dor"> DoR </a> |
-<a href="#dod"> DoD </a> |
+<a href="#dor2"> DoR 2 </a> |
+<a href="#dod2"> DoD 2</a> |
+<a href="#dor3"> DoR 3</a> |
+<a href="#dod3"> DoD 3</a> |
 <a href="#sprints"> 📌 Sprints </a> |
 <a href="#tecnologias"> 💻 Tecnologias </a> |
 <a href="#membros"> 👥 Membros </a> 
@@ -68,7 +70,7 @@ A Sambold permitirá que os usuários se cadastrem e realizem login no sistema, 
 
 <br>
 
-<h2 id='dor'> DoR (Definition of Ready) </h2>
+<h2 id='dor2'> DoR (Definition of Ready) </h2>
 
 - User Stories detalhadas com critérios de aceitação  
 - Protótipos de interface aprovados  
@@ -81,7 +83,7 @@ A Sambold permitirá que os usuários se cadastrem e realizem login no sistema, 
 
 <br>
 
-<h2 id='dod'> DoD (Definition of Done) </h2>
+<h2 id='dod2'> DoD (Definition of Done) </h2>
 
 - Código implementado em Java  
 - Testes de envio de dados no banco realizados
@@ -106,7 +108,7 @@ A Sambold permitirá que os usuários se cadastrem e realizem login no sistema, 
 
 <br>
 
-<h2 id='dor'> DoR (Definition of Ready) </h2>
+<h2 id='dor3'> DoR (Definition of Ready) </h2>
  
 - Sistema de envio de documentos
 - Sistema de gerenciamento do Orientador de pedidos de orientação
@@ -115,7 +117,7 @@ A Sambold permitirá que os usuários se cadastrem e realizem login no sistema, 
 
 <br>
 
-<h2 id='dod'> DoD (Definition of Done) </h2>
+<h2 id='dod3'> DoD (Definition of Done) </h2>
 
 - Código implementado em Java  
 - Testes de envio de dados no banco realizados
