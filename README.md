@@ -11,7 +11,8 @@
 <a href="#desafio"> 🎯 Desafio </a> |
 <a href="#proposta"> ✅ Proposta de Solução </a> |
 <a href="#product-backlog"> 📖 Backlog do Produto </a> |  
-<a href="#sprint-backlog"> 📖 Sprint Backlog </a> |
+<a href="#sprint-backlog2"> 📖 Sprint 2 Backlog </a> |
+<a href="#sprint-backlog3"> 📖 Sprint 3 Backlog </a> |
 <a href="#dor2"> DoR 2 </a> |
 <a href="#dod2"> DoD 2</a> |
 <a href="#dor3"> DoR 3</a> |
@@ -50,7 +51,7 @@ A Sambold permitirá que os usuários se cadastrem e realizem login no sistema, 
 
 <br>
 
-<h2 id='sprint-backlog'> 📖 Sprint Backlog </h2>
+<h2 id='sprint-backlog2'> 📖 Sprint Backlog </h2>
 
 <h3> Sprint 2 </h3>
 
@@ -91,6 +92,8 @@ A Sambold permitirá que os usuários se cadastrem e realizem login no sistema, 
 - Funcionalidades propostas integradas em diferentes telas
 
 <br>
+
+<h2 id='sprint-backlog3'> 📖 Sprint 3 Backlog </h2>
 
 <h3> Sprint 3 </h3>
 
