@@ -7,14 +7,12 @@
 <a href='#topo'
 <a href="#desafio"> 🎯 Desafio </a> |
 <a href="#proposta"> ✅ Proposta de Solução </a> |
-<a href="#product-backlog"> 📖 Backlog do Produto </a> |  
+<a href="#product-backlog"> 📖 Backlog do Produto </a> | 
+<a href="#dor"> DoR </a> |
+<a href="#dod"> DoD </a> |  
+<a href="#sprints"> 📌 Sprints </a> |
 <a href="#sprint-backlog2"> 📖 Sprint 2 Backlog </a> |
 <a href="#sprint-backlog3"> 📖 Sprint 3 Backlog </a> |
-<a href="#dor2"> DoR 2 </a> |
-<a href="#dod2"> DoD 2</a> |
-<a href="#dor3"> DoR 3</a> |
-<a href="#dod3"> DoD 3</a> |
-<a href="#sprints"> 📌 Sprints </a> |
 <a href="#tecnologias"> 💻 Tecnologias </a> |
 <a href="#membros"> 👥 Membros </a> 
 </div>
@@ -48,7 +46,7 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 
 <br>
 
-<h2 id='dor2'> DoR (Definition of Ready) </h2>
+<h2 id='dor'> DoR (Definition of Ready) </h2>
 
 - User Stories detalhadas com *critérios de aceitação*  
 - Subtarefas dividas a partir das US  
@@ -58,12 +56,23 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 
 <br>
 
-<h2 id='dod2'> DoD (Definition of Done) </h2>
+<h2 id='dod'> DoD (Definition of Done) </h2>
 
 - Manual do Usuário
 - Manual da Aplicação   
 - Documentação da API (Application Programming Interface)  
 - Documentação de uso atualizada    
+
+<br>
+
+
+<h2 id='sprints'> 📌 Sprints </h2>
+
+| Sprint | Período | Entregas | Status |
+|--------|---------|----------|--------|
+| 1 | 08/09 - 28/09 | Planejamento inicial, Protótipos Visuais | ✅ |
+| 2 | 06/10 - 26/10 | Cadastro/Login, Enviar/Receber Pedido de Orientação, Chat entre Orientador e Orientando, Histórico de Mensagens  | 🟡 |
+| 3 | 03/11 - 23/11 | Armazenamento de Documentos, Ferramentas para Gerenciamento de Orientandos, Alteração de Dados de Cadastro, Notificação de Resposta ao Pedido de Orientação | 🟠 |
 
 <br>
 
@@ -141,16 +150,6 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 
 <br>
 
-<h2 id='sprints'> 📌 Sprints </h2>
-
-| Sprint | Período | Entregas | Status |
-|--------|---------|----------|--------|
-| 1 | 08/09 - 28/09 | Planejamento inicial, Protótipos Visuais | ✅ |
-| 2 | 06/10 - 26/10 | Cadastro/Login, Enviar/Receber Pedido de Orientação, Chat entre Orientador e Orientando, Histórico de Mensagens  | 🟡 |
-| 3 | 03/11 - 23/11 | Armazenamento de Documentos, Ferramentas para Gerenciamento de Orientandos, Alteração de Dados de Cadastro, Notificação de Resposta ao Pedido de Orientação | 🟠 |
-
-<br>
-
 <h2 id='tecnologias'> 💻 Tecnologias </h2>
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
@@ -158,6 +157,8 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrumalliance.org/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+
 
 <br>
 
