@@ -159,6 +159,98 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 [![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrumalliance.org/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
+<br>
+
+# 📘 Manual de Instalação
+
+## 🛠️ Pré-requisitos
+
+Antes de iniciar, certifique-se de ter os seguintes programas instalados:
+
+- Git [(Download)](#git)
+- Java 24+ [(Download)](#java)
+- Maven [(Download)](#maven)
+- Visual Studio Code [(Download)](#vscode)
+- MySQL Workbench [(Download)](#mysql-workbench)
+
+---
+
+## 🔹 Git
+
+O Git é um sistema de controle de versão distribuído, usado para gerenciar projetos de software.
+
+### 📥 Instalação:
+1. Acesse o site oficial: [Download Git](https://git-scm.com/downloads)
+2. Escolha a versão compatível com seu sistema operacional (Windows, macOS, Linux).
+3. Execute o instalador e siga as instruções padrão.
+4. Para verificar se foi instalado corretamente, abra o terminal e digite:
+   ```bash
+   git --version
+   ```
+
+---
+
+## 🔹 Java (JDK)
+
+O Java é necessário para rodar o backend e algumas ferramentas como o Maven.
+
+### 📥 Instalação:
+1. Acesse: [Download Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
+2. Baixe a versão **Java SE Development Kit (17 ou superior)**.
+3. Instale o pacote e configure a variável de ambiente `JAVA_HOME`.
+4. Para verificar a instalação:
+   ```bash
+   java -version
+   ```
+
+---
+
+## 🔹 Maven
+
+O Maven é uma ferramenta de automação e gerenciamento de dependências para projetos Java.
+
+### 📥 Instalação:
+1. Baixe em: [Download Maven](https://maven.apache.org/download.cgi)
+2. Extraia o arquivo `.zip` em uma pasta (ex: `C:\apache-maven`).
+3. Configure a variável de ambiente:
+   - Adicione `C:\apache-maven\bin` ao `PATH`.
+4. Verifique a instalação:
+   ```bash
+   mvn -version
+   ```
+
+---
+
+## 🔹 Visual Studio Code (VS Code)
+
+O VS Code é o editor recomendado para trabalhar com os projetos.
+
+### 📥 Instalação:
+1. Baixe em: [Download VS Code](https://code.visualstudio.com/download)
+2. Instale normalmente no Windows/macOS/Linux.
+3. Recomendado instalar extensões:
+   - Java Extension Pack
+   - Maven for Java
+   - MySQL
+   - GitLens
+
+---
+
+## 🔹 MySQL Workbench
+
+O MySQL Workbench é uma interface gráfica para gerenciar o banco de dados MySQL.
+
+### 📥 Instalação:
+1. Baixe em: [Download MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
+2. Escolha a versão compatível com seu sistema.
+3. Instale normalmente.
+4. Configure uma conexão com seu servidor MySQL.
+5. Teste acessando o banco com:
+   ```sql
+   SELECT VERSION();
+   ```
+
+---
 
 <br>
 
