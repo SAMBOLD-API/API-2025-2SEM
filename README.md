@@ -162,7 +162,7 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 
 <br>
 
-<h2 id='Manual de Instalação'> # 📘 Manual de Instalação </h2>
+<h2 id='Manual de Instalação'> 📘 Manual de Instalação </h2>
 
 ## 🛠️ Pré-requisitos
 
