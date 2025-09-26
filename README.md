@@ -171,7 +171,7 @@ Antes de iniciar, certifique-se de ter os seguintes programas instalados:
 - Git [(Download)](https://git-scm.com/downloads))
 - Java 24+ [(Download)](https://www.oracle.com/java/technologies/javase-downloads.html)
 - Maven [(Download)](https://maven.apache.org/download.cgi)
-- Visual Studio Code [(Download)]((https://code.visualstudio.com/download))
+- Visual Studio Code [(Download)](https://code.visualstudio.com/download)
 - MySQL Workbench [(Download)](https://dev.mysql.com/downloads/workbench/))
 
 ---
