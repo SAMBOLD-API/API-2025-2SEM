@@ -33,7 +33,7 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 
 <h2 id='product-backlog'> 📖 Backlog do Produto </h2>
 
-| Rank | Prioridade | User Story | Estimativa | Sprint | 
+| Rank | Prioridade | User Story | Story Points | Sprint | 
 |-------|------------|------------|----------------|---------|
 | 1 | ALTA | Como orientador ou orientando, quero poder entrar no sistema. | 3 | 2 | 
 | 2 | ALTA | Como professor de TG, quero poder gerenciar os orientadores. | 5 | 2 | 
@@ -45,6 +45,25 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 | 8 | MÉDIA | Como orientador, quero ter ferramentas fáceis para organizar e gerenciar meus orientandos em um só lugar. | 3 | 3 | 
 | 9 | MÉDIA | Como orientando, quero poder alterar meus dados de cadastro. | 3 | 3 | 
 | 10 | BAIXA | Como orientando, quero ser notificado se meu pedido de orientação foi aceito ou rejeitado. | 3 | 3 | 
+
+<br>
+
+<h2 id='dor2'> DoR (Definition of Ready) </h2>
+
+- User Stories detalhadas com *critérios de aceitação*  
+- Subtarefas dividas a partir das US  
+- Design no Figma  
+- Modelagem do Banco de Dados  
+- Banco de Dados Vetorizado do Cliente     
+
+<br>
+
+<h2 id='dod2'> DoD (Definition of Done) </h2>
+
+- Manual do Usuário
+- Manual da Aplicação   
+- Documentação da API (Application Programming Interface)  
+- Documentação de uso atualizada    
 
 <br>
 
