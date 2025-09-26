@@ -14,6 +14,7 @@
 <a href="#sprint-backlog2"> 📖 Sprint 2 Backlog </a> |
 <a href="#sprint-backlog3"> 📖 Sprint 3 Backlog </a> |
 <a href="#tecnologias"> 💻 Tecnologias </a> |
+<a href="#Manual de Instalação"> 📘 Manual de Instalação </a> |
 <a href="#membros"> 👥 Membros </a> 
 </div>
 
@@ -161,17 +162,17 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 
 <br>
 
-# 📘 Manual de Instalação
+<h1 id='Manual de Instalação'> # 📘 Manual de Instalação </h1>
 
 ## 🛠️ Pré-requisitos
 
 Antes de iniciar, certifique-se de ter os seguintes programas instalados:
 
-- Git [(Download)](#git)
-- Java 24+ [(Download)](#java)
-- Maven [(Download)](#maven)
-- Visual Studio Code [(Download)](#vscode)
-- MySQL Workbench [(Download)](#mysql-workbench)
+- Git [(Download)](https://git-scm.com/downloads))
+- Java 24+ [(Download)](https://www.oracle.com/java/technologies/javase-downloads.html)
+- Maven [(Download)](https://maven.apache.org/download.cgi)
+- Visual Studio Code [(Download)]((https://code.visualstudio.com/download))
+- MySQL Workbench [(Download)](https://dev.mysql.com/downloads/workbench/))
 
 ---
 
@@ -196,7 +197,7 @@ O Java é necessário para rodar o backend e algumas ferramentas como o Maven.
 
 ### 📥 Instalação:
 1. Acesse: [Download Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
-2. Baixe a versão **Java SE Development Kit (17 ou superior)**.
+2. Baixe a versão **Java SE Development Kit (24 ou superior)**.
 3. Instale o pacote e configure a variável de ambiente `JAVA_HOME`.
 4. Para verificar a instalação:
    ```bash
