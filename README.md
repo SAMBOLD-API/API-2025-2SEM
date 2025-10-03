@@ -16,6 +16,7 @@
 <a href="#tecnologias"> 💻 Tecnologias </a> |
 <a href="#Manual de Instalação"> 📘 Manual de Instalação </a> |
 <a href="#membros"> 👥 Membros </a> 
+<a href="https://github.com/SAMBOLD-API/API-2025-2SEM/tree/main/docs">📄 Documentos </a>  
 </div>
 
 <br>
