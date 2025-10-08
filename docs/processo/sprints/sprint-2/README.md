@@ -1,6 +1,6 @@
 <p align="center">
 
-# 🐆🇧🇷 Sambold  
+# 🐆 Sambold  
 
 | [Desafio](#-desafio) | [User Stories](#-user-stories) | [DoR](#-definition-of-ready) | [DoD](#-definition-of-done) | [Burndown](#-sprint-burndown) | [Equipe](#-equipe) |
 
