@@ -33,37 +33,46 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 
 <h2 id='product-backlog'> 📖 Backlog do Produto </h2>
 
-| Rank | Prioridade | User Story | Story Points | Sprint | 
-|-------|------------|------------|----------------|---------|
-| 1 | ALTA | Como orientador ou orientando, quero poder entrar no sistema. | 3 | 2 | 
-| 2 | ALTA | Como professor de TG, quero poder gerenciar os orientadores. | 5 | 2 | 
-| 3 | ALTA | Como orientando, quero poder enviar um pedido de orientação escolhendo o orientador que desejo para começar o acompanhamento. | 3 | 2 | 
-| 4 | ALTA | Como orientador, quero poder aprovar ou recusar pedidos de orientação. | 3 | 2 |
-| 5 | ALTA | Como orientador ou orientando, quero poder enviar e guardar documentos e ter acesso a eles. | 5 | 3 | 
-| 6 | ALTA | Como orientando, quero ter um espaço no sistema para conversar, tirar dúvidas e receber feedback do orientador. | 8 | 2 |
-| 7 | MÉDIA | Como orientador e orientando, quero que o sistema guarde o histórico de pedidos e alterações para poder consultar depois. | 8 | 2 | 
-| 8 | MÉDIA | Como orientador, quero ter ferramentas fáceis para organizar e gerenciar meus orientandos em um só lugar. | 3 | 3 | 
-| 9 | MÉDIA | Como orientando, quero poder alterar meus dados de cadastro. | 3 | 3 | 
-| 10 | BAIXA | Como orientando, quero ser notificado se meu pedido de orientação foi aceito ou rejeitado. | 3 | 3 | 
+# 🗂️ Product Backlog – API 2025-2
 
-<br>
+| Rank | Prioridade | User Story | Estimativa | Sprint |
+|------|-------------|-------------|-------------|---------|
+| 1 | Alta | Como aluno, quero **enviar uma nova seção do meu TG** para que o professor orientador possa revisá-la. | 5 | 1 |
+| 2 | Alta | Como professor orientador, quero **visualizar todas as seções enviadas pelos meus alunos orientados** para organizar as correções pendentes. | 5 | 1 |
+| 3 | Alta | Como professor orientador, quero **comunicar em tempo real o feedback** para guiar o aluno na revisão do TG. | 8 | 1 |
+| 4 | Média | Como aluno, quero **visualizar o histórico de feedbacks de cada seção** para acompanhar minha evolução e correções anteriores. | 5 | 2 |
+| 5 | Média | Como professor orientador, quero **acessar versões anteriores das seções corrigidas** para comparar a evolução do texto. | 8 | 2 |
+| 8 | Baixa | Como aluno, quero **receber notificações quando o professor enviar feedback** para não perder prazos de revisão. | 5 | 3 |
+| 9 | Baixa | Como administrador, quero **gerenciar cadastros de alunos e professores** para garantir acesso controlado ao sistema. | 5 | 3 |
 
-<h2 id='dor'> DoR (Definition of Ready) </h2>
+# ✅ Definition of Ready (DoR) 
 
-- User Stories detalhadas com *critérios de aceitação*  
-- Subtarefas dividas a partir das US  
-- Design no Figma  
-- Modelagem do Banco de Dados  
-- Banco de Dados Vetorizado do Cliente     
+| Critério | Descrição | Status |
+|-----------|------------|---------|
+|  Título e Descrição claros | A User Story possui um título e uma descrição seguindo o formato: “Como [usuário], quero [funcionalidade] para [benefício]”. | ☐ |
+|  Critérios de Aceitação definidos | Todos os critérios de aceitação foram definidos e validados pelo Product Owner. | ☐ |
+| Sem dependências bloqueadoras | Não há dependências técnicas, funcionais ou externas que impeçam o desenvolvimento da User Story. | ☐ |
+| Compreensão validada pelo time | Todos os membros da equipe compreendem a história e concordam com o esforço estimado. | ☐ |
+| Estimativa de esforço realizada | A história possui uma estimativa de Story Points definida com base em Planning Poker. | ☐ |
+| Artefatos correlatos disponíveis| Foram anexados wireframes, fluxogramas, modelo de dados ou outros artefatos que auxiliem o desenvolvimento. | ☐ |
+|  Estratégia de teste definida | Foram planejados cenários de teste ou estratégias de validação da funcionalidade. | ☐ |
 
-<br>
+---
 
-<h2 id='dod'> DoD (Definition of Done) </h2>
+# ✅ Definition of Done (DoD)
 
-- Manual do Usuário
-- Manual da Aplicação   
-- Documentação da API (Application Programming Interface)  
-- Documentação de uso atualizada    
+| Critério | Descrição | Status |
+|-----------|------------|---------|
+| Código desenvolvido e funcional | A funcionalidade foi implementada conforme os critérios de aceitação e está operando corretamente. | ☐ |
+| Código versionado no Git | O código foi commitado seguindo o padrão de mensagens definido (`feat(#id): descrição`). | ☐ |
+| Branch específica criada | A história foi desenvolvida em uma branch própria (`feature/<nome-da-funcionalidade>`). | ☐ |
+| Code Review realizado | O código passou por revisão de pelo menos um membro da equipe via Pull Request. | ☐ |
+| Código limpo e comentado | Não há trechos comentados desnecessariamente e o código segue boas práticas de legibilidade. | ☐ |
+| Testes executados com sucesso | Todos os testes unitários e funcionais previstos foram executados e aprovados. | ☐ |
+| Documentação atualizada | A documentação técnica e/ou de usuário foi atualizada no repositório (`/docs`). | ☐ |
+| Incremento apresentado | A funcionalidade foi demonstrada ao cliente/professor em review de Sprint com vídeo ou demonstração ao vivo. | ☐ |
+
+---
 
 <br>
 
