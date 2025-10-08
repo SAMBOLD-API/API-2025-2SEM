@@ -6,11 +6,8 @@
 
 </div>
 
----
-
 ✅ **Status da Sprint:** Em Andamento  
 
----
 
 ## 🥇 Desafio  
 
