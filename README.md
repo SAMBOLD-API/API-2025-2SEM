@@ -31,9 +31,8 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 
 <br>
 
-<h2 id='product-backlog'> 📖 Backlog do Produto </h2>
+<h1 id='product-backlog'> 📖 Backlog do Produto </h1>
 
-# 🗂️ Product Backlog – API 2025-2
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|-------------|-------------|-------------|---------|
@@ -45,7 +44,7 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 | 8 | Baixa | Como aluno, quero **receber notificações quando o professor enviar feedback** para não perder prazos de revisão. | 5 | 3 |
 | 9 | Baixa | Como administrador, quero **gerenciar cadastros de alunos e professores** para garantir acesso controlado ao sistema. | 5 | 3 |
 
-# ✅ Definition of Ready (DoR) 
+## ✅ Definition of Ready (DoR) 
 
 | Critério | Descrição | Status |
 |-----------|------------|---------|
@@ -59,7 +58,7 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 
 ---
 
-# ✅ Definition of Done (DoD)
+## ✅ Definition of Done (DoD)
 
 | Critério | Descrição | Status |
 |-----------|------------|---------|
