@@ -11,7 +11,7 @@
 ✅ **Status da Sprint:** Em Andamento  
 
 
-## 🥇 Desafio  
+# 🥇 Desafio  
 
 Implementar funcionalidades que aprimorem a experiência de interação entre **alunos e professores** durante o processo de orientação dos **Trabalhos de Graduação (TGs)**.  
 
