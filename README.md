@@ -41,8 +41,8 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 | 5 | Média | Como professor orientador, quero **acessar versões anteriores das seções corrigidas** para comparar a evolução do texto. | 8 | 2 |
 | 6 | Média | Como aluno, quero **enviar uma solicitação de orientação a um professor** para dar início ao meu TG. | 5 | 2 |
 | 7 | Baixa | Como aluno, quero **receber notificações quando o professor enviar feedback** para não perder prazos de revisão. | 2 | 3 |
-| 8 | Baixa | Como administrador, quero **gerenciar cadastros de alunos e professores** para garantir acesso controlado ao sistema. | 3 | 3 |
-| 9 | Baixa | Como Aluno, quero **alterar meus dados de cadastro** caso eu digite algo incorreto | 3 | 3 |
+| 8 | Baixa | Como administrador, quero **gerenciar cadastros de professores** para garantir acesso controlado ao sistema. | 3 | 3 |
+| 9 | Baixa | Como usuário, quero **alterar meus dados de cadastro** caso eu digite algo incorreto | 3 | 3 |
 
 ## 🏃 Definition of Ready (DoR) 
 
