@@ -44,6 +44,7 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 | 6 | Média | Como aluno, quero **enviar uma solicitação de orientação a um professor** para eu poder dar início ao meu TG. | 5 | 2 |
 | 7 | Baixa | Como aluno, quero **receber notificações quando o professor enviar feedback** para não perder prazos de revisão. | 2 | 3 |
 | 8 | Baixa | Como administrador, quero **gerenciar cadastros de alunos e professores** para garantir acesso controlado ao sistema. | 3 | 3 |
+| 9 | Baixa | Como Aluno, quero **alterar meus dados de cadastro** caso eu digite algo incorreto | 3 | 3 |
 
 ## 🏃 Definition of Ready (DoR) 
 
@@ -82,8 +83,8 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 | Sprint | Período | Entregas | Documentação |
 |--------|---------|----------|--------|
 | 1 | 08/09 - 28/09 | Planejamento inicial, Protótipos Visuais | <a href = "https://github.com/SAMBOLD-API/API-2025-2SEM/tree/main/docs/processo/sprints/sprint-1"> sprint-1 |
-| 2 | 06/10 - 26/10 | Cadastro/Login, Enviar/Receber Pedido de Orientação, Chat entre Orientador e Orientando, Histórico de Mensagens  | <a href = "https://github.com/SAMBOLD-API/API-2025-2SEM/tree/main/docs/processo/sprints/sprint-2"> sprint-2 </a>    |
-| 3 | 03/11 - 23/11 | Armazenamento de Documentos, Ferramentas para Gerenciamento de Orientandos, Alteração de Dados de Cadastro, Notificação de Resposta ao Pedido de Orientação | <a href = "https://github.com/SAMBOLD-API/API-2025-2SEM/tree/main/docs/processo/sprints/sprint-3"> sprint-3 </a>    |
+| 2 | 06/10 - 26/10 | Enviar/Receber Pedido de Orientação, Chat entre Orientador e Orientando, Histórico de Mensagens e TG, Adicionar Orientador  | <a href = "https://github.com/SAMBOLD-API/API-2025-2SEM/tree/main/docs/processo/sprints/sprint-2"> sprint-2 </a>    |
+| 3 | 03/11 - 23/11 | Cadastro/Login, Armazenamento de Documentos, Alteração de Dados de Cadastro, Notificação de Resposta ao Pedido de Orientação | <a href = "https://github.com/SAMBOLD-API/API-2025-2SEM/tree/main/docs/processo/sprints/sprint-3"> sprint-3 </a>    |
 
 <br>
 
