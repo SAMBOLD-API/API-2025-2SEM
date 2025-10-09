@@ -79,85 +79,11 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 
 <h2 id='sprints'> 📌 Sprints </h2>
 
-| Sprint | Período | Entregas | Status |
+| Sprint | Período | Entregas | Documentação |
 |--------|---------|----------|--------|
-| 1 | 08/09 - 28/09 | Planejamento inicial, Protótipos Visuais | ✅ |
+| 1 | 08/09 - 28/09 | Planejamento inicial, Protótipos Visuais | <a href = "https://github.com/SAMBOLD-API/API-2025-2SEM/tree/main/docs/processo/sprints/sprint-1"> sprint-1 |
 | 2 | 06/10 - 26/10 | Cadastro/Login, Enviar/Receber Pedido de Orientação, Chat entre Orientador e Orientando, Histórico de Mensagens  | <a href = "https://github.com/SAMBOLD-API/API-2025-2SEM/tree/main/docs/processo/sprints/sprint-2"> sprint-2 </a>    |
 | 3 | 03/11 - 23/11 | Armazenamento de Documentos, Ferramentas para Gerenciamento de Orientandos, Alteração de Dados de Cadastro, Notificação de Resposta ao Pedido de Orientação | <a href = "https://github.com/SAMBOLD-API/API-2025-2SEM/tree/main/docs/processo/sprints/sprint-3"> sprint-3 </a>    |
-
-<br>
-
-<h2 id='sprint-backlog2'> 📖 Sprint 2 Backlog </h2>
-
-| Capacidade estimada da equipe por sprint | 22 Story Points |
-|------------------------------------------|-----------------|
-| *Meta da Sprint*                       | User Stories de rank 1, 2, 3, 4 (total de 16 Story Points) |
-| *Previsão da Sprint (extras, sem compromisso de entrega)* | User Stories de rank 6 e rank 7 (21 Story Points) |
-
-| Rank | Prioridade | User Story | Estimativa | Sprint |
-|------|------------|------------|------------|--------|
-| 1 | ALTA | Como orientador ou orientando, quero poder entrar no sistema. | 3 | 2 |
-| 2 | ALTA | Como professor de TG, quero poder gerenciar os orientadores. | 3 | 2 | 
-| 3 | ALTA | Como orientando, quero poder enviar um pedido de orientação escolhendo o orientador que desejo para começar o acompanhamento. | 5 | 2 | 
-| 4 | ALTA | Como orientador, quero poder aprovar ou recusar pedidos de orientação. | 5 | 2 |
-| 6 | ALTA | Como orientando, quero ter um espaço no sistema para conversar, tirar dúvidas e receber feedback do orientador. | 13 | 2 | 
-| 7 | MÉDIA | Como orientador e orientando, quero que o sistema guarde o histórico de pedidos e alterações para poder consultar depois. | 8 | 2 | 
-
-<br>
-
-<h2 id='dor2'> DoR (Definition of Ready) </h2>
-
-- User Stories detalhadas com critérios de aceitação  
-- Protótipos de interface aprovados  
-- Definição das regras de login e cadastro  
-- Ambiente de desenvolvimento configurado (Visual Studio Code)  
-- Definição do modo de cadastro dos orientadores  
-- Definição da lógica de pedidos de orientação e como gerenciá-los  
-- Definição de como é desejada a interação entre orientador e orientando  
-- Definição do acesso às conversas anteriores  
-
-<br>
-
-<h2 id='dod2'> DoD (Definition of Done) </h2>
-
-- Código implementado em Java  
-- Testes de envio de dados no banco realizados  
-- Documentação de uso atualizada  
-- Funcionalidades propostas integradas em diferentes telas  
-
-<br>
-
-<h2 id='sprint-backlog3'> 📖 Sprint 3 Backlog </h2>
-
-| Capacidade estimada da equipe por sprint | 22 Story Points |
-|------------------------------------------|-----------------|
-| *Meta da Sprint*                       | User Stories de rank 5 e rank 8 (total de 13 Story Points) |
-| *Previsão da Sprint (extras, sem compromisso de entrega)* | User Stories de rank 9 e rank 10 (6 Story Points) |
-
-| Rank | Prioridade | User Story | Estimativa | Sprint |
-|------|------------|------------|------------|--------|
-| 5 | ALTA | Como orientador ou orientando, quero poder enviar e guardar documentos e ter acesso a eles. | 8 | 3 | 
-| 8 | MÉDIA | Como orientador, quero ter ferramentas fáceis para organizar e gerenciar meus orientandos em um só lugar. | 5 | 3 | 
-| 9 | MÉDIA | Como orientando, quero poder alterar meus dados de cadastro. | 3 | 3 | 
-| 10 | BAIXA | Como orientando, quero ser notificado se meu pedido de orientação foi aceito ou rejeitado. | 3 | 3 | 
-
-<br>
-
-<h2 id='dor3'> DoR (Definition of Ready) </h2>
- 
-- Identificação do envio e armazenamento de documentos  
-- Identificação de uma interface intuitiva para gerenciamento de orientandos  
-- Identificação da maneira desejada para alterar os dados de cadastro  
-- Identificação das regras para notificação do pedido de orientação    
-
-<br>
-
-<h2 id='dod3'> DoD (Definition of Done) </h2>
-
-- Código implementado em Java  
-- Testes de envio de dados no banco realizados  
-- Documentação de uso atualizada  
-- Funcionalidades propostas integradas em diferentes telas  
 
 <br>
 
