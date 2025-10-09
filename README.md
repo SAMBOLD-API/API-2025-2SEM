@@ -82,7 +82,7 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 | Sprint | Período | Entregas | Status |
 |--------|---------|----------|--------|
 | 1 | 08/09 - 28/09 | Planejamento inicial, Protótipos Visuais | ✅ |
-| 2 | 06/10 - 26/10 | Cadastro/Login, Enviar/Receber Pedido de Orientação, Chat entre Orientador e Orientando, Histórico de Mensagens  | 🟡 |
+| 2 | 06/10 - 26/10 | Cadastro/Login, Enviar/Receber Pedido de Orientação, Chat entre Orientador e Orientando, Histórico de Mensagens  | <a href = "https://github.com/SAMBOLD-API/API-2025-2SEM/tree/main/docs/processo/sprints/sprint-2"></a> |
 | 3 | 03/11 - 23/11 | Armazenamento de Documentos, Ferramentas para Gerenciamento de Orientandos, Alteração de Dados de Cadastro, Notificação de Resposta ao Pedido de Orientação | 🟠 |
 
 <br>
