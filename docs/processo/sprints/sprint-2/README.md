@@ -21,12 +21,11 @@ Implementar funcionalidades que aprimorem a experiência de interação entre **
 
 | Rank | Prioridade | User Story | Story Points | Sprint | Status |
 |------|-------------|-------------|--------------|---------|---------|
-| 1 | Alta | Como aluno, quero **enviar mensagens em tempo real para o professor orientador**, para **esclarecer dúvidas sobre o TG**. | 8 | 2 | ☐ |
-| 2 | Alta | Como professor orientador, quero **responder em tempo real as mensagens dos alunos orientados**, para **acompanhar e orientar o progresso do TG**. | 8 | 2 | ☐ |
-| 3 | Alta | Como aluno, quero **enviar uma solicitação de orientação**, escolhendo o professor desejado, para **iniciar o acompanhamento do TG**. | 5 | 2 | ☐ |
-| 4 | Alta | Como professor orientador, quero **aceitar ou recusar solicitações de orientação de alunos**, para **definir quais orientações irei acompanhar**. | 5 | 2 | ☐ |
-| 5 | Média | Como aluno, quero **visualizar o histórico de solicitações e TGs já realizados**, para **acompanhar meu progresso e status de cada orientação**. | 5 | 2 | ☐ |
-| 6 | Média | Como professor de TG, quero **cadastrar novos professores orientadores no sistema**, para **manter atualizado o quadro de docentes disponíveis**. | 5 | 2 | ☐ |
+| 1 | Alta | Como aluno, quero **enviar uma nova seção do meu TG** para que o professor orientador possa revisá-la. | 5 | 2 | ☐ |
+| 2 | Alta | Como professor orientador, quero **visualizar todas as seções enviadas pelos meus alunos orientados** para organizar as correções pendentes. | 5 | 2 | ☐ |
+| 3 | Alta | Como professor orientador, quero **enviar um feedback** para guiar o aluno na revisão do TG. | 8 | 2 | ☐ |
+| 4 | Média | Como aluno, quero **visualizar o histórico de feedbacks de cada seção** para acompanhar minha evolução e correções anteriores. | 5 | 2 | ☐ |
+| 5 | Média | Como aluno, quero **enviar uma solicitação de orientação a um professor** para dar início ao meu TG. | 5 | 2 | ☐ |
 
 ---
 
