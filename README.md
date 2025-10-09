@@ -36,7 +36,7 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 |------|-------------|-------------|-------------|---------|
 | 1 | Alta | Como aluno, quero **enviar uma nova seção do meu TG** para que o professor orientador possa revisá-la. | 5 | 2 |
 | 2 | Alta | Como professor orientador, quero **visualizar todas as seções enviadas pelos meus alunos orientados** para organizar as correções pendentes. | 5 | 2 |
-| 3 | Alta | Como professor orientador, quero **comunicar em tempo real o feedback** para guiar o aluno na revisão do TG. | 8 | 2 |
+| 3 | Alta | Como professor orientador, quero **enviar um feedback** para guiar o aluno na revisão do TG. | 8 | 2 |
 | 4 | Média | Como aluno, quero **visualizar o histórico de feedbacks de cada seção** para acompanhar minha evolução e correções anteriores. | 5 | 2 |
 | 5 | Média | Como professor orientador, quero **acessar versões anteriores das seções corrigidas** para comparar a evolução do texto. | 8 | 2 |
 | 6 | Média | Como aluno, quero **enviar uma solicitação de orientação a um professor** para eu poder dar início ao meu TG. | 5 | 2 |
