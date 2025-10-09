@@ -10,9 +10,7 @@
 <a href="#product-backlog"> 📖 Backlog do Produto </a> | 
 <a href="#dor"> DoR </a> |
 <a href="#dod"> DoD </a> |  
-<a href="#sprints"> 📌 Sprints </a> |
-<a href="#sprint-backlog2"> 📖 Sprint 2 Backlog </a> |
-<a href="#sprint-backlog3"> 📖 Sprint 3 Backlog </a> |
+<a href="#sprints"> 📌 Cronograma de Sprints </a> |
 <a href="#tecnologias"> 💻 Tecnologias </a> |
 <a href="#Manual de Instalação"> 📘 Manual de Instalação </a> |
 <a href="#membros"> 👥 Membros </a> |
@@ -78,7 +76,7 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 <br>
 
 
-<h2 id='sprints'> 📌 Sprints </h2>
+<h2 id='sprints'> 📌 Cronograma de Sprints </h2>
 
 | Sprint | Período | Entregas | Documentação |
 |--------|---------|----------|--------|
