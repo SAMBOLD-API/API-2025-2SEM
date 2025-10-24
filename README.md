@@ -19,6 +19,13 @@
 
 <br>
 
+> **Status do Projeto:** Em andamento 🔨 
+> **Relatório de Testes:** [PDF](#) 📊  
+> **Pasta de Documentação:** [href="https://github.com/SAMBOLD-API/API-2025-2SEM/tree/main/docs](#) 📄 Documentos  
+> **Vídeo do Projeto:** [Youtube](#) 🎬
+
+<br>
+
 <h1 id='desafio'> 🎯 Desafio </h1>
 Desenvolver uma aplicação Java para correção de TGs. A aplicação deve permitir um meio de comunicação entre orientador e orientando, otimizando o envio de perguntas pelo orientando e o feedback pelo orientador, sendo também acessível o histórico das mensagens entre as duas partes. Além disso, haverá materiais auxiliares (modelo de TG e manual do TG) disponíveis para o aluno.
 
