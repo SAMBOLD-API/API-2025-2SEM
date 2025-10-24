@@ -1,7 +1,7 @@
 <div align="center">
 
 <div style="width:300px; aspect-ratio:16/9;">
-  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/imgLogo.jpeg" alt="Logo" style="width:100%; height:100%; object-fit:cover;">
+  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/logo.png" alt="Logo" style="width:100%; height:100%; object-fit:cover;">
 </div>
 
 | [Desafio](#-desafio) | [User Stories](#-user-stories) | [DoR](#-definition-of-ready) | [DoD](#-definition-of-done) | [Burndown](#-sprint-burndown) | [Equipe](#-equipe) |
