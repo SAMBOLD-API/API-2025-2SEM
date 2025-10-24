@@ -20,7 +20,7 @@
 
 > **Status do Projeto:** Em andamento 🔨 
 > **Relatório de Testes:** [PDF](#) 📊  
-> **Pasta de Documentação:** [Docs](#href="https://github.com/SAMBOLD-API/API-2025-2SEM/tree/main/docs) 📄   
+> **Pasta de Documentação:** [Docs](https://github.com/SAMBOLD-API/API-2025-2SEM/tree/main/docs) 📄   
 > **Vídeo do Projeto:** [Youtube](#) 🎬
 
 <br>
