@@ -1,4 +1,0 @@
---patch-module
-org.sambold.tg=_
---add-reads
-org.sambold.tg=ALL-UNNAMED
