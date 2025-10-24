@@ -21,7 +21,7 @@ Implementar funcionalidades que aprimorem a interação entre **alunos e profess
 
 | Rank | Prioridade | User Story | Story Points | Sprint | Status |
 |------|-------------|-------------|--------------|---------|---------|
-| 1 | Alta | Como aluno, quero **enviar uma nova seção do meu TG** para que o professor orientador possa revisá-la. | 5 | 2 | [x] |
+| 1 | Alta | Como aluno, quero **enviar uma nova seção do meu TG** para que o professor orientador possa revisá-la. | 5 | 2 | - [x] |
 | 2 | Alta | Como professor orientador, quero **visualizar todas as seções enviadas pelos meus alunos orientados** para organizar as correções pendentes. | 5 | 2 | [x] |
 | 3 | Alta | Como professor orientador, quero **enviar um feedback** para guiar o aluno na revisão do TG. | 8 | 2 | [x] |
 | 4 | Média | Como aluno, quero **visualizar o histórico de feedbacks de cada seção** para acompanhar minha evolução e correções anteriores. | 5 | 2 | [x] |
