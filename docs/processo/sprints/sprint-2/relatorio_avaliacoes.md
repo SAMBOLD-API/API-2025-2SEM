@@ -27,4 +27,5 @@ Foram registradas em video demonstrando as principais validações realizadas:
 - ✅ Solicitação enviada e recebida conforme esperado.  
 - ✅ Histórico exibindo status “Aceito” e “Recusado” de forma adequada.  
 - ✅ Dados armazenados e recuperados via SQLite após reinício da aplicação.
+<br>
 [Vídeo dos Testes](https://www.google.com) 🎬
