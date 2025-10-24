@@ -13,7 +13,7 @@
 
 # 🥇 Desafio  
 
-Implementar funcionalidades que aprimorem a experiência de interação entre **alunos e professores** durante o processo de orientação dos **Trabalhos de Graduação (TGs)**.  
+Implementar funcionalidades que aprimorem a interação entre **alunos e professores** no processo de orientação dos **Trabalhos de Graduação (TGs)**, incluindo um **chat** integrado para comunicação direta, o envio e aceite de **solicitações de orientação**, e o **cadastro de professores** na plataforma. 
 
 ---
 
