@@ -14,14 +14,13 @@
 <a href="#tecnologias"> 💻 Tecnologias </a> |
 <a href="#Manual de Instalação"> 📘 Manual de Instalação </a> |
 <a href="#membros"> 👥 Membros </a> |
-<a href="https://github.com/SAMBOLD-API/API-2025-2SEM/tree/main/docs">📄 Documentos </a> |
 </div>
 
 <br>
 
 > **Status do Projeto:** Em andamento 🔨 
 > **Relatório de Testes:** [PDF](#) 📊  
-> **Pasta de Documentação:** [href="https://github.com/SAMBOLD-API/API-2025-2SEM/tree/main/docs](#) 📄 Documentos  
+> **Pasta de Documentação:** [Docs](href="https://github.com/SAMBOLD-API/API-2025-2SEM/tree/main/docs) 📄   
 > **Vídeo do Projeto:** [Youtube](#) 🎬
 
 <br>
