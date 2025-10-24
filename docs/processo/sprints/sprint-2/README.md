@@ -41,6 +41,12 @@ Implementar funcionalidades que aprimorem a interação entre **alunos e profess
 |Artefatos disponíveis | Foram anexados wireframes das telas de chat, solicitação, histórico e cadastro de professores. |
 |Estratégia de testes definida | Foram planejados os testes de envio/recebimento de mensagens, criação de solicitações e cadastro de professores. |
 
+### 🧾 Artefatos Correlatos
+- [x] Wireframes das telas (chat, solicitação de orientação e histórico).
+- [x] Modelo de dados atualizado com as novas entidades.
+- [x] Estratégia de testes definida (cenários de envio e recebimento de mensagens, cadastro de professores).
+- [x] Documentação e design disponíveis na pasta `/docs/Sprint2`.
+
 ---
 
 ## 🏆 Definition of Done  
