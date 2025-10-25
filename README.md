@@ -54,13 +54,13 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 
 | Critério | Descrição | Status |
 |-----------|------------|---------|
-|  Título e Descrição claros | A User Story possui um título e uma descrição seguindo o formato: “Como [usuário], quero [funcionalidade] para [benefício]”. | ☐ |
-|  Critérios de Aceitação definidos | Todos os critérios de aceitação foram definidos e validados pelo Product Owner. | ☐ |
-| Sem dependências bloqueadoras | Não há dependências técnicas, funcionais ou externas que impeçam o desenvolvimento da User Story. | ☐ |
-| Compreensão validada pelo time | Todos os membros da equipe compreendem a história e concordam com o esforço estimado. | ☐ |
-| Estimativa de esforço realizada | A história possui uma estimativa de Story Points definida com base em Planning Poker. | ☐ |
-| Artefatos correlatos disponíveis| Foram anexados wireframes, fluxogramas, modelo de dados ou outros artefatos que auxiliem o desenvolvimento. | ☐ |
-|  Estratégia de teste definida | Foram planejados cenários de teste ou estratégias de validação da funcionalidade. | ☐ |
+|  Título e Descrição claros | A User Story possui um título e uma descrição seguindo o formato: “Como [usuário], quero [funcionalidade] para [benefício]”. | [x] |
+|  Critérios de Aceitação definidos | Todos os critérios de aceitação foram definidos e validados pelo Product Owner. | [x] |
+| Sem dependências bloqueadoras | Não há dependências técnicas, funcionais ou externas que impeçam o desenvolvimento da User Story. | [x] |
+| Compreensão validada pelo time | Todos os membros da equipe compreendem a história e concordam com o esforço estimado. | [x] |
+| Estimativa de esforço realizada | A história possui uma estimativa de Story Points definida com base em Planning Poker. | [x] |
+| Artefatos correlatos disponíveis| Foram anexados wireframes, fluxogramas, modelo de dados ou outros artefatos que auxiliem o desenvolvimento. | [x] |
+|  Estratégia de teste definida | Foram planejados cenários de teste ou estratégias de validação da funcionalidade. | [x] |
 
 ---
 
