@@ -28,4 +28,4 @@ Foram registradas em video demonstrando as principais validações realizadas:
 - ✅ Histórico exibindo status “Aceito” e “Recusado” de forma adequada.  
 - ✅ Dados armazenados e recuperados via SQLite após reinício da aplicação.
 <br>
-[Vídeo dos Testes](https://www.google.com) 🎬
+[Vídeo dos Testes](https://youtu.be/1FgXS3ghAnI?si=_7gXNR4mUjv13Y5_) 🎬
