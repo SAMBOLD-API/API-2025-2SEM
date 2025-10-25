@@ -21,7 +21,7 @@
 > **Status do Projeto:** Em andamento 🔨   
 > **Relatório de Testes:** [MD](https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/processo/sprints/sprint-2/relatorio_avaliacoes.md) 📊  
 > **Pasta de Documentação:** [Docs](https://github.com/SAMBOLD-API/API-2025-2SEM/tree/main/docs) 📄   
-> **Vídeo do Projeto:** [Youtube](#) 🎬
+> **Vídeo do Projeto:** [Youtube](https://youtu.be/1FgXS3ghAnI?si=_7gXNR4mUjv13Y5_) 🎬
 
 <br>
 
