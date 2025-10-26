@@ -1,6 +1,6 @@
 # API-2025-2SEM
 <div style="width:300px; aspect-ratio:16/9;">
-  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/tree/main/docs/Img/logo.png" alt="Logo" style="width:100%; height:100%; object-fit:cover;">
+  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/logo.png" alt="Logo" style="width:100%; height:100%; object-fit:cover;">
 </div>
 
 <div align="center">
