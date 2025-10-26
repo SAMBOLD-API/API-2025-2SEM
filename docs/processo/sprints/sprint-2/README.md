@@ -64,11 +64,6 @@ Implementar funcionalidades que aprimorem a interação entre **alunos e profess
 
 ---
 
-## 📊 Sprint Burndown  
-
-*(Inserir aqui o gráfico de acompanhamento de progresso da Sprint, exportado do Jira, Excel ou ferramenta utilizada.)*
-
----
 
 ## 👥 Equipe  
 
