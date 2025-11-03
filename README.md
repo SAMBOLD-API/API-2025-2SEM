@@ -40,13 +40,13 @@ A Sambold permitirá que os usuários se cadastrem e façam login no sistema, on
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|-------------|-------------|-------------|---------|
-| 1 | Alta | Como aluno, quero **enviar uma nova seção do meu TG** para que o professor orientador possa revisá-la. | 5 | 2 |
-| 2 | Alta | Como professor orientador, quero **visualizar todas as seções enviadas pelos meus alunos orientados** para organizar as correções pendentes. | 5 | 2 |
-| 3 | Alta | Como professor orientador, quero **enviar um feedback** para guiar o aluno na revisão do TG. | 8 | 2 |
-| 4 | Média | Como aluno, quero **visualizar o histórico de feedbacks de cada seção** para acompanhar minha evolução e correções anteriores. | 5 | 2 |
-| 5 | Média | Como aluno, quero **enviar uma solicitação de orientação a um professor** para dar início ao meu TG. | 5 | 2 |
-| 6 | Média | Como professor orientador, quero **acessar versões anteriores das seções corrigidas** para comparar a evolução do texto. | 8 | 3 |
-| 7 | Baixa | Como aluno, quero **receber notificações quando o professor enviar feedback** para não perder prazos de revisão. | 2 | 3 |
+| 1 | Alta | Como aluno, quero **enviar uma nova seção do meu TG** para que o professor orientador possa revisá-la. | 5 | 3 |
+| 2 | Alta | Como professor orientador, quero **visualizar todas as seções enviadas pelos meus alunos orientados** para organizar as correções pendentes. | 5 | 3 |
+| 3 | Alta | Como professor orientador, quero **enviar um feedback** para guiar o aluno na revisão do TG. | 8 | 3 |
+| 4 | Alta | Como administrador, quero **Ter acesso a todos os professores e alunos** para acompanhar o progresso dos TG's. | 8 | 3 |
+| 5 | Média | Como aluno, quero **visualizar o histórico de feedbacks de cada seção** para acompanhar minha evolução e correções anteriores. | 5 | 3 |
+| 6 | Média | Como aluno, quero **Ter acesso a materiais de apoio** para auxiliar a realizção do meu TG. | 5 | 3 |
+| 7 | Média | Como aluno, quero **enviar uma solicitação de orientação a um professor** para dar início ao meu TG. | 5 | 2 |
 | 8 | Baixa | Como administrador, quero **gerenciar cadastros de professores** para garantir acesso controlado ao sistema. | 3 | 3 |
 | 9 | Baixa | Como usuário, quero **alterar meus dados de cadastro** caso digite algo incorreto | 3 | 3 |
 
