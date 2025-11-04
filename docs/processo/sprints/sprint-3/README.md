@@ -133,8 +133,10 @@ Implementar funcionalidades que habilitam o aluno **enviar uma nova seção do m
   <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/Vizualizar%20Professores.png" alt="Logo" style="width:100%; height:100%; object-fit:cover;">
 </div>
 
+<br>
+
 <div style="width:300px; aspect-ratio:16/9;">
-  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/visualizarALunos.png alt="Logo" style="width:100%; height:100%; object-fit:cover;">
+  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/visualizarALunos.png" alt="Logo" style="width:100%; height:100%; object-fit:cover;">
 </div>
 
 ---
