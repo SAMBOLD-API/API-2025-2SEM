@@ -19,14 +19,15 @@ Implementar funcionalidades que habilitam o aluno **enviar uma nova seção do m
 
 # 🎯 User Stories  
 
-| 1 | Alta | Como aluno, quero **enviar uma nova seção do meu TG** para que o professor orientador possa revisá-la. | 5 | 3 |
-| 2 | Alta | Como professor, quero **visualizar todas as seções enviadas pelos meus alunos orientados** para organizar as correções pendentes. | 5 | 3 | 
-| 3 | Alta | Como professor, quero **enviar um feedback** para guiar o aluno na revisão do TG. | 8 | 3 | 
-| 4 | Alta | Como administrador, quero **Ter acesso a todos os professores e alunos** para acompanhar o progresso dos TG's. | 8 | 3 | 
-| 5 | Média | Como aluno, quero **visualizar o histórico de feedbacks de cada seção** para acompanhar minha evolução e correções anteriores. | 5 | 3 | 
-| 6 | Média | Como aluno, quero **Ter acesso a materiais de apoio** para auxiliar a realizção do meu TG. | 5 | 3 | 
-| 8 | Baixa | Como administrador, quero **gerenciar cadastros de professores** para garantir acesso controlado ao sistema. | 3 | 3 | 
-| 9 | Baixa | Como usuário, quero **alterar meus dados de cadastro** caso digite algo incorreto | 3 | 3 | 
+| Rank | Prioridade | User Story | Estimativa | Status |
+| 1 | Alta | Como aluno, quero **enviar uma nova seção do meu TG** para que o professor orientador possa revisá-la. | 5 | 3 | [] |
+| 2 | Alta | Como professor, quero **visualizar todas as seções enviadas pelos meus alunos orientados** para organizar as correções pendentes. | 5 | 3 | [] | 
+| 3 | Alta | Como professor, quero **enviar um feedback** para guiar o aluno na revisão do TG. | 8 | 3 | [] |
+| 4 | Alta | Como administrador, quero **Ter acesso a todos os professores e alunos** para acompanhar o progresso dos TG's. | 8 | 3 | [] | 
+| 5 | Média | Como aluno, quero **visualizar o histórico de feedbacks de cada seção** para acompanhar minha evolução e correções anteriores. | 5 | 3 | [] | 
+| 6 | Média | Como aluno, quero **Ter acesso a materiais de apoio** para auxiliar a realizção do meu TG. | 5 | 3 | [] |
+| 8 | Baixa | Como administrador, quero **gerenciar cadastros de professores** para garantir acesso controlado ao sistema. | 3 | 3 | [] | 
+| 9 | Baixa | Como usuário, quero **alterar meus dados de cadastro** caso digite algo incorreto | 3 | 3 | [] |
 
 ---
 
@@ -61,6 +62,11 @@ Implementar funcionalidades que habilitam o aluno **enviar uma nova seção do m
 | Estimativa realizada | Estimada em **5 pontos**, consenso da equipe. |
 | Artefatos disponíveis | Wireframe da tela de envio da seção do TG foi anexado. |
 | Estratégia de testes definida | Teste de upload, validação de formato e vínculo com orientador planejados. |
+<br>
+
+<div style="width:300px; aspect-ratio:16/9;">
+  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/Se%C3%A7%C3%B5es%20Aluno.png" alt="Logo" style="width:100%; height:100%; object-fit:cover;">
+</div>
 
 ---
 
@@ -77,6 +83,11 @@ Implementar funcionalidades que habilitam o aluno **enviar uma nova seção do m
 | Estimativa realizada | Estimada em **5 pontos**, aprovada pelo time. |
 | Artefatos disponíveis | Wireframe da tela de listagem de seções anexado. |
 | Estratégia de testes definida | Testes de listagem, filtro por aluno e ordenação planejados. |
+<br>
+
+<div style="width:300px; aspect-ratio:16/9;">
+  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/Feedback%20Professor.png" alt="Logo" style="width:100%; height:100%; object-fit:cover;">
+</div>
 
 ---
 
@@ -93,6 +104,11 @@ Implementar funcionalidades que habilitam o aluno **enviar uma nova seção do m
 | Estimativa realizada | Estimada em **8 pontos**, consenso da equipe. |
 | Artefatos disponíveis | Wireframe da tela de feedback anexado. |
 | Estratégia de testes definida | Testes de envio, exibição e atualização de feedback programados. |
+<br>
+
+<div style="width:300px; aspect-ratio:16/9;">
+  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/Feedback%20Professor.png" alt="Logo" style="width:100%; height:100%; object-fit:cover;">
+</div>
 
 ---
 
@@ -109,6 +125,15 @@ Implementar funcionalidades que habilitam o aluno **enviar uma nova seção do m
 | Estimativa realizada | Estimada em **8 pontos**. |
 | Artefatos disponíveis | Wireframe do dashboard administrativo anexado. |
 | Estratégia de testes definida | Testes de acesso, filtragem e exibição geral planejados. |
+<br>
+
+<div style="width:300px; aspect-ratio:16/9;">
+  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/Vizualizar%20Professores.png" alt="Logo" style="width:100%; height:100%; object-fit:cover;">
+</div>
+
+<div style="width:300px; aspect-ratio:16/9;">
+  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/visualizarALunos.png alt="Logo" style="width:100%; height:100%; object-fit:cover;">
+</div>
 
 ---
 
@@ -125,6 +150,11 @@ Implementar funcionalidades que habilitam o aluno **enviar uma nova seção do m
 | Estimativa realizada | Estimada em **5 pontos**. |
 | Artefatos disponíveis | Wireframe do histórico de feedbacks anexado. |
 | Estratégia de testes definida | Testes de listagem e ordenação cronológica planejados. |
+<br>
+
+<div style="width:300px; aspect-ratio:16/9;">
+  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/Se%C3%A7%C3%B5es%20Aluno.png" alt="Logo" style="width:100%; height:100%; object-fit:cover;">
+</div>
 
 ---
 
@@ -141,7 +171,11 @@ Implementar funcionalidades que habilitam o aluno **enviar uma nova seção do m
 | Estimativa realizada | Estimada em **5 pontos**. |
 | Artefatos disponíveis | Wireframe da seção de materiais anexado. |
 | Estratégia de testes definida | Testes de exibição, download e validação de arquivo definidos. |
+<br>
 
+<div style="width:300px; aspect-ratio:16/9;">
+  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/Envio%20Documentos.png" alt="Logo" style="width:100%; height:100%; object-fit:cover;">
+</div>
 ---
 
 ## 🧩 User Story 8  
@@ -157,6 +191,11 @@ Implementar funcionalidades que habilitam o aluno **enviar uma nova seção do m
 | Estimativa realizada | Estimada em **3 pontos**. |
 | Artefatos disponíveis | Wireframe do CRUD de professores anexado. |
 | Estratégia de testes definida | Testes de criação, edição e exclusão planejados. |
+<br>
+
+<div style="width:300px; aspect-ratio:16/9;">
+  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/Vizualizar%20Professores.png" alt="Logo" style="width:100%; height:100%; object-fit:cover;">
+</div>
 
 ---
 
@@ -173,6 +212,11 @@ Implementar funcionalidades que habilitam o aluno **enviar uma nova seção do m
 | Estimativa realizada | Estimada em **3 pontos**. |
 | Artefatos disponíveis | Wireframe da tela de edição de perfil anexado. |
 | Estratégia de testes definida | Testes de atualização e persistência de dados definidos. |
+<br>
+
+<div style="width:300px; aspect-ratio:16/9;">
+  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/Atualiza%C3%A7%C3%A3o%20de%20perfil.png" alt="Logo" style="width:100%; height:100%; object-fit:cover;">
+</div>
 
 
 ## 🏆 Definition of Done  
