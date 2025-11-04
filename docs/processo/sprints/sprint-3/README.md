@@ -13,23 +13,21 @@
 
 # 🥇 Meta  
 
-Implementar funcionalidades que habilitam o aluno **enviar uma nova seção do meu TG**, **visualizar o histórico de feedbacks de cada seção**, **Ter acesso a materiais de apoio**, professor de **visualizar todas as seções enviadas pelos meus alunos orientados**, **enviar um feedback** e administrador de **gerenciar cadastros de professores** e **Ter acesso a todos os professores e alunos**.
+Implementar funcionalidades das user stories 1, 2, 3, 4, 5, 6, 8, 9 que habilitam o aluno **enviar uma nova seção do meu TG**, **visualizar o histórico de feedbacks de cada seção**, **Ter acesso a materiais de apoio**, professor de **visualizar todas as seções enviadas pelos meus alunos orientados**, **enviar um feedback** e administrador de **gerenciar cadastros de professores** e **Ter acesso a todos os professores e alunos**.
 
 ---
 
 # 🎯 User Stories  
 
 | Rank | Prioridade | User Story | Estimativa | Status |
-|------|-------------|-------------|-------------|---------|
-| 1 | Alta | Como aluno, quero **enviar uma nova seção do meu TG** para que o professor orientador possa revisá-la. | 5 | ☐ |
-| 2 | Alta | Como professor, quero **visualizar todas as seções enviadas pelos meus alunos orientados** para organizar as correções pendentes. | 5 | ☐ |
-| 3 | Alta | Como professor, quero **enviar um feedback** para guiar o aluno na revisão do TG. | 8 | ☐ |
-| 4 | Alta | Como administrador, quero **ter acesso a todos os professores e alunos** para acompanhar o progresso dos TG's. | 8 | ☐ |
-| 5 | Média | Como aluno, quero **visualizar o histórico de feedbacks de cada seção** para acompanhar minha evolução e correções anteriores. | 5 | ☐ |
-| 6 | Média | Como aluno, quero **ter acesso a materiais de apoio** para auxiliar a realização do meu TG. | 5 | ☐ |
-| 8 | Baixa | Como administrador, quero **gerenciar cadastros de professores** para garantir acesso controlado ao sistema. | 3 | ☐ |
-| 9 | Baixa | Como usuário, quero **alterar meus dados de cadastro** caso digite algo incorreto. | 3 | ☐ |
-
+| 1 | Alta | Como aluno, quero **enviar uma nova seção do meu TG** para que o professor orientador possa revisá-la. | 8 |[] |
+| 2 | Alta | Como professor, quero **visualizar todas as seções enviadas pelos meus alunos orientados** para organizar as correções pendentes. | 5 | [] | 
+| 3 | Alta | Como professor, quero **enviar um feedback** para guiar o aluno na revisão do TG. | 8 | [] |
+| 4 | Alta | Como administrador, quero **Ter acesso a todos os professores e alunos** para acompanhar o progresso dos TG's. | 5 | [] | 
+| 5 | Média | Como aluno, quero **visualizar o histórico de feedbacks de cada seção** para acompanhar minha evolução e correções anteriores. | 5 | [] | 
+| 6 | Média | Como aluno, quero **Ter acesso a materiais de apoio** para auxiliar a realizção do meu TG. | 3 | [] |
+| 8 | Baixa | Como administrador, quero **gerenciar cadastros de professores** para garantir acesso controlado ao sistema. | 3 | [] | 
+| 9 | Baixa | Como usuário, quero **alterar meus dados de cadastro** caso digite algo incorreto | 3 | [] |
 
 ---
 
@@ -133,10 +131,8 @@ Implementar funcionalidades que habilitam o aluno **enviar uma nova seção do m
   <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/Vizualizar%20Professores.png" alt="Logo" style="width:100%; height:100%; object-fit:cover;">
 </div>
 
-<br>
-
 <div style="width:300px; aspect-ratio:16/9;">
-  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/visualizarALunos.png" alt="Logo" style="width:100%; height:100%; object-fit:cover;">
+  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/visualizarALunos.png alt="Logo" style="width:100%; height:100%; object-fit:cover;">
 </div>
 
 ---
@@ -157,7 +153,7 @@ Implementar funcionalidades que habilitam o aluno **enviar uma nova seção do m
 <br>
 
 <div style="width:300px; aspect-ratio:16/9;">
-  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/Feedback%20Professor.png" alt="Logo" style="width:100%; height:100%; object-fit:cover;">
+  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/Se%C3%A7%C3%B5es%20Aluno.png" alt="Logo" style="width:100%; height:100%; object-fit:cover;">
 </div>
 
 ---
