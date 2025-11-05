@@ -8,7 +8,7 @@
 
 </div>
 
- **Status da Sprint:** Em Andamento  
+ **Status da Sprint:** Entregue   
 
 
 # 🥇 Desafio  
