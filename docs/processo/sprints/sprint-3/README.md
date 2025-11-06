@@ -13,7 +13,7 @@
 
 # 🥇 Meta  
 
-Implementar funcionalidades das user stories 1, 2, 3, 4, 5, 6, 8, 9 que habilitam o aluno **enviar uma nova seção do meu TG**, **visualizar o histórico de feedbacks de cada seção**, **Ter acesso a materiais de apoio**, professor de **visualizar todas as seções enviadas pelos meus alunos orientados**, **enviar um feedback** e administrador de **gerenciar cadastros de professores** e **Ter acesso a todos os professores e alunos**.
+Implementar funcionalidades das user stories 1, 2, 3, 4, 5, e 6 que habilitam o aluno **enviar uma nova seção do meu TG**, **visualizar o histórico de feedbacks de cada seção**, professor de **visualizar todas as seções enviadas pelos meus alunos orientados**, **enviar um feedback** e administrador de **gerenciar cadastros de professores** e **Ter acesso a todos os professores e alunos**.
 
 ---
 
