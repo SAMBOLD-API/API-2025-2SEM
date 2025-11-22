@@ -8,8 +8,6 @@
 <a href="#desafio"> 🎯 Desafio </a> |
 <a href="#proposta"> ✅ Proposta de Solução </a> |
 <a href="#product-backlog"> 📖 Backlog do Produto </a> | 
-<a href="#dor"> DoR </a> |
-<a href="#dod"> DoD </a> |  
 <a href="#sprints"> 📌 Cronograma de Sprints </a> |
 <a href="#tecnologias"> 💻 Tecnologias </a> |
 <a href="#Manual de Instalação"> 📘 Manual de Instalação </a> |
