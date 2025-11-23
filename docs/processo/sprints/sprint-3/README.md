@@ -13,7 +13,7 @@
 
 # 🥇 Meta  
 
-Implementar funcionalidades das user stories 1, 2, 3, 4, 5, e 6 que habilitam o aluno **enviar uma nova seção do meu TG**, **visualizar o histórico de feedbacks de cada seção**, professor de **visualizar todas as seções enviadas pelos meus alunos orientados**, **enviar um feedback** e administrador de **gerenciar cadastros de professores** e **Ter acesso a todos os professores e alunos**.
+Implementar funcionalidades das user stories 1, 2, 3, 4, 5, e 8 que habilitam o aluno **enviar uma nova seção do meu TG**, **visualizar o histórico de feedbacks de cada seção**, professor de **visualizar todas as seções enviadas pelos meus alunos orientados**, **enviar um feedback** e administrador de **gerenciar cadastros de professores** e **Ter acesso a todos os professores e alunos**.
 
 ---
 
@@ -235,7 +235,13 @@ Implementar funcionalidades das user stories 1, 2, 3, 4, 5, e 6 que habilitam o 
 | Demonstração entregue | O incremento foi apresentado ao cliente/professor em vídeo ou review de Sprint. |
 
 ---
+## Burndown da Terceira Sprint
 
+<div style="width:300px; aspect-ratio:16/9;">
+  <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/processo/sprints/sprint-3/Burndown3.png" alt="burndown sprint 3" style="width:100%; height:100%; object-fit:cover;">
+</div>
+
+---
 
 ## 👥 Equipe  
 
