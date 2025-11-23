@@ -21,14 +21,14 @@ Implementar funcionalidades das user stories 1, 2, 3, 4, 5, e 8 que habilitam o 
 
 | Rank | Prioridade | User Story | Estimativa | Status |
 |------|-------------|-------------|-------------|---------|
-| 1 | Alta | Como aluno, quero **enviar uma nova seção do meu TG** para que o professor orientador possa revisá-la. | 8 | ☐ |
-| 2 | Alta | Como professor, quero **visualizar todas as seções enviadas pelos meus alunos orientados** para organizar as correções pendentes. | 5 | ☐ |
-| 3 | Alta | Como professor, quero **enviar um feedback** para guiar o aluno na revisão do TG. | 8 | ☐ |
-| 4 | Alta | Como administrador, quero **ter acesso a todos os professores e alunos** para acompanhar o progresso dos TG's. | 5 | ☐ |
-| 5 | Média | Como aluno, quero **visualizar o histórico de feedbacks de cada seção** para acompanhar minha evolução e correções anteriores. | 5 | ☐ |
-| 6 | Média | Como aluno, quero **ter acesso a materiais de apoio** para auxiliar a realização do meu TG. | 3 | ☐ |
-| 8 | Baixa | Como administrador, quero **gerenciar cadastros de professores** para garantir acesso controlado ao sistema. | 3 | ☐ |
-| 9 | Baixa | Como usuário, quero **alterar meus dados de cadastro** caso digite algo incorreto. | 3 | ☐ |
+| 1 | Alta | Como aluno, quero **enviar uma nova seção do meu TG** para que o professor orientador possa revisá-la. | 8 | [x] |
+| 2 | Alta | Como professor, quero **visualizar todas as seções enviadas pelos meus alunos orientados** para organizar as correções pendentes. | 5 | [x] |
+| 3 | Alta | Como professor, quero **enviar um feedback** para guiar o aluno na revisão do TG. | 8 | [x] |
+| 4 | Alta | Como administrador, quero **ter acesso a todos os professores e alunos** para acompanhar o progresso dos TG's. | 5 | [x] |
+| 5 | Média | Como aluno, quero **visualizar o histórico de feedbacks de cada seção** para acompanhar minha evolução e correções anteriores. | 5 | [x] |
+| 6 | Média | Como aluno, quero **ter acesso a materiais de apoio** para auxiliar a realização do meu TG. | 3 | [x] |
+| 8 | Baixa | Como administrador, quero **gerenciar cadastros de professores** para garantir acesso controlado ao sistema. | 3 | [x] |
+| 9 | Baixa | Como usuário, quero **alterar meus dados de cadastro** caso digite algo incorreto. | 3 | [x] |
 
 
 ---
