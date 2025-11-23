@@ -4,7 +4,7 @@
   <img src="https://github.com/SAMBOLD-API/API-2025-2SEM/blob/main/docs/Img/logo.png" alt="Logo" style="width:100%; height:100%; object-fit:cover;">
 </div>
 
-| [Desafio](#-Meta) | [User Stories](#-user-stories) | [DoR](#-definition-of-ready) | [DoD](#-definition-of-done) | [Burndown](#-sprint-burndown) | [Equipe](#-equipe) |
+| [Meta](#-Meta) | [User Stories](#-user-stories) | [DoR](#-definition-of-ready) | [DoD](#-definition-of-done) | [Burndown](#-sprint-burndown) | [Equipe](#-equipe) |
 
 </div>
 
